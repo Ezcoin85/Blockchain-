@@ -23,4 +23,4 @@ SCAMS ARE ON THE RISE: in the last couple of years thus dubbing the term #SCAMCO
 please educate yourselves in the understanding of blockchain environments and security. 
 
 
-most countries don't yet regulate cryptography so if your coins are taken (especially Bitcoins) Then they're gone! becareful where you store them is critical! Do not necessarily large exchanges like U.S. San Francisco based COINBASE. remember NO REGULATION = NO GUARANTEE FOR SAFETY
+most countries don't yet regulate cryptography so if your coins are taken (especially Bitcoins) Then they're gone! becareful where you store them is critical! Do not necessarily trust large exchanges like U.S. San Francisco based COINBASE. remember NO REGULATION = NO GUARANTEE FOR SAFETY
